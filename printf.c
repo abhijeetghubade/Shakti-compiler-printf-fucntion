@@ -1,11 +1,3 @@
-/* fprintf.c */
-
-/*
- * Copyright (c) 1997-2010, 2013-2014 Wind River Systems, Inc.
- *
- * SPDX-License-Identifier: Apache-2.0
- */
-
 #include <stdarg.h>
 #include <stdint.h>
 
