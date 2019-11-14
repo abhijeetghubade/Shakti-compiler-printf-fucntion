@@ -1,11 +1,3 @@
-/* prf.c */
-
-/*
- * Copyright (c) 1997-2010, 2012-2015 Wind River Systems, Inc.
- *
- * SPDX-License-Identifier: Apache-2.0
- */
-
 #include <stdint.h>
 #include <stddef.h>
 #include <stdbool.h>
